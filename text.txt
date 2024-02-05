@@ -1,0 +1,1 @@
+height: var(--left-menu-row-height, 30px);
